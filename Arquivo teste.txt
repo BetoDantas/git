@@ -1,2 +1,4 @@
 Arquivo feito manualmente no pc 
 Arquivo alterado no github
+
+-----------------Alterado diretamente Por MIM------------------
